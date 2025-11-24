@@ -43,5 +43,6 @@ Thumbs.db
 
 # Project specific - Removes generated files
 dbpedia_project/*
+!dbpedia_project/model/*
 
 
